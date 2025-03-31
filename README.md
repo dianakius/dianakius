@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="left" src="https://media.tenor.com/Kvb6x15FRvcAAAAi/bun-cute.gif" width="50%" style="display:inline;">
+<img align="left" src="https://media1.tenor.com/m/gK9Yd_xrxrIAAAAC/yoda-star-wars.gif" width="30%" style="display:inline;">
  <br>
 
 
