@@ -5,16 +5,17 @@
 
 <br>
 <p align="center">
-    <h1 align="center"> A Padawan on the path to mastering the ways of Full Stack Development, now working as a Junior Developer. Still learning, still growing, and ready to take on the galaxy of code! ⚡🖥️🌌 </h1>
+    <h1 align="center"> A Padawan on the path to mastering the ways of Full Stack Development, now working as a Junior Developer. </h1>
+ <br><br>
+    <h2>Still learning, still growing, and ready to take on the galaxy of code! ⚡🖥️🌌 </h2>
 </p>
 
 
 Feel free to explore my work on GitHub: [@padawanDia](https://github.com/padawanDia)
 
-<p>The Force is strong with this repository! 👩‍💻💫</p>p>
+<p>The Force is strong with this repository! 👩‍💻💫</p>
 
-<img align="left" src="https://media1.tenor.com/m/gK9Yd_xrxrIAAAAC/yoda-star-wars.gif" width="30%" style="display:inline;">
- <br>
+
 
 
 
