@@ -18,7 +18,7 @@ A Padawan on the path to mastering the ways of Full Stack Development, currently
 
 ### About Me
 
-* Currently working as a Junior Developer at **designco-agency** *
+* Currently seeking new roles as a Junior Developer *
 * My work github: https://github.com/padawanDia *
 
 
