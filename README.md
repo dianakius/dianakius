@@ -6,7 +6,7 @@
 
 <div align="center">
 
-A Padawan on the path to mastering the ways of Full Stack Development, currently working as a **Junior Developer**.
+A Padawan on the path to mastering the ways of Full Stack Development, currently seeking new roles as a **Junior Developer**.
 
 *Still learning, still growing, and ready to take on the galaxy of code!* ⚡🖥️🌌
 
