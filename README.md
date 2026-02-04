@@ -18,7 +18,7 @@
 
 ## About Me
 
-- Junior Full Stack Developer, actively seeking new opportunities  
+- Junior Front End Developer with full-stack experience, actively seeking new opportunities  
 - Career changer with a strong background in tech, coordination & problem-solving  
 - Passionate about clean UI, thoughtful UX, and scalable code    
 
