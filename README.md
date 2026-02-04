@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Junior Full Stack Developer</strong><br/>
+  <strong>I am Diana, Junior Frontend Developer with full-stack experience</strong><br/>
   Still learning. Still building. Ready to ship. 
 </p>
 
